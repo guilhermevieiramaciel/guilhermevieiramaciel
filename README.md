@@ -4,7 +4,7 @@
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevieiramaciel&show_icons=true&theme=dracula)
 
-## Tecnologias que tenho conhecimento
+## Tecnologias que tenho conhecimento💻
 
 <div style="display : inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,5 +16,5 @@
 
 Estudante de Gestão de tecnologia da informação, entrando de cabeça no mundo da tecnologia e focado no front-end.
 
-## G-mail
+## G-mail📧
 guilherme.maciel08@gmail.com
